@@ -1,0 +1,11 @@
+"peace.music.interlude"
+{
+	"playlooping"
+	{
+		"volume"	"0.15"
+		"pitch"		"95"
+		"soundlevel"	"SNDLVL_150dB"
+		
+		"wave"		"music\Interlude.mp3"
+	}
+}
