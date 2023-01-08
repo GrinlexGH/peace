@@ -132,4 +132,5 @@ $sequence "swingingidle" {
 	fadein 0.2
 	fadeout 0.2
 	fps 30
+	loop
 }
