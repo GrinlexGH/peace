@@ -3,14 +3,12 @@
 WeaponData
 {
 	// Weapon data is loaded by both the Game and Client DLLs.
-	"printname"	"#HL2_Crowbar"
+	"printname"	"#MOD_Pipe"
 	"viewmodel"				"models/weapons/v_pipe.mdl"
 	"playermodel"			"models/weapons/w_pipe.mdl"
 	"anim_prefix"			"pipe"
-	"bucket"				"2"
-	"bucket_position"		"0"
-	"bucket_360"				"2"
-	"bucket_position_360"		"0"
+	"bucket"				"0"
+	"bucket_position"		"2"
 
 	"clip_size"				"-1"
 	"primary_ammo"			"None"
@@ -18,13 +16,15 @@ WeaponData
 
 	"weight"				"0"
 	"item_flags"			"0"
+	
+	"autoswitchfrom"		"1"
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	SoundData
 	{
 		"single_shot"		"Weapon_Crowbar.Single"
+		"melee_hit_world"	"Weapon_Crowbar.Single"
 		"melee_hit"			"Weapon_Crowbar.Melee_Hit"
-		"melee_hit_world"	"Weapon_Crowbar.Melee_HitWorld"
 	}
 
 	// Weapon Sprite data is loaded by the Client DLL.

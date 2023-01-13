@@ -4,7 +4,7 @@ $modelname "Weapons/v_pipe.mdl"
 
 $bodygroup "studio"
 {
-	studio "pipe_reference.smd"
+	studio "v_pipe_reference.smd"
 }
 
 
