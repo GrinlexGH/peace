@@ -1,0 +1,11 @@
+WorldVertexTransition
+{
+	$basetexture "blend/dirtfloor006a"
+
+	$basetexture2 "blend/concretefloor038b"
+
+	$blendmodulatetexture "blend/concretefloor038b_blendmodulate"
+
+	%tooltexture "blend/blendgrassconcrete001a_tooltexture"
+	%keywords "concrete grass"
+}

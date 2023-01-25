@@ -2,10 +2,11 @@
 {
 	"playlooping"
 	{
-		"volume"	"0.15"
-		"pitch"		"95"
+		"volume"		"0.15"
+		"pitch"			"100"
 		"soundlevel"	"SNDLVL_150dB"
+		"channel"		"CHAN_STATIC"
 		
-		"wave"		"music\Interlude.mp3"
+		"wave"		"#music\Interlude.wav"
 	}
 }
