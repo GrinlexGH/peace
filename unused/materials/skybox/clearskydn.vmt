@@ -1,0 +1,8 @@
+sky
+{
+	$basetexture "/skybox/clearskydn"
+
+	$nofog 1
+	$nomip 1
+	$ignorez 1
+}

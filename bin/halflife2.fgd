@@ -4392,7 +4392,6 @@
 ]
 
 @PointClass base(Weapon) studio("models/weapons/w_crowbar.mdl") sphere(fademindist) sphere(fademaxdist) = weapon_crowbar : "Crowbar" []
-@PointClass base(Weapon) studio("models/weapons/w_pipe.mdl") sphere(fademindist) sphere(fademaxdist) = weapon_pipe : "Pipe" []
 @PointClass base(Weapon) studio("models/weapons/w_stunbaton.mdl") sphere(fademindist) sphere(fademaxdist) = weapon_stunstick : "StunStick" []
 @PointClass base(Weapon) studio("models/weapons/w_pistol.mdl") sphere(fademindist) sphere(fademaxdist) = weapon_pistol : "Pistol" []
 @PointClass base(Weapon) studio("models/weapons/w_irifle.mdl") sphere(fademindist) sphere(fademaxdist) = weapon_ar2 : "Assault Rifle 2" []

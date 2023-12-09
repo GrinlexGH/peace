@@ -1,9 +1,4 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/weapons/v_pipe/v_pipe"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$envmaptint" "[.8 .8 .8]"
-	"$envmapcontrast" "1"
+	$basetexture "models/weapons/v_pipe/v_pipe.vtf"
 }

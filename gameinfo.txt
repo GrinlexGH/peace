@@ -6,7 +6,7 @@
 
 	type		singleplayer_only
 
-	GameData	"bin/halflife2.fgd"
+	GameData	"bin/Peace.fgd"
 
 	icon		"resource/icon1"
 	
