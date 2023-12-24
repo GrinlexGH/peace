@@ -1,12 +1,12 @@
 "GameInfo"
 {
-	game 		"Peace"
-	title 		"Peace"
+	game		"Peace"
+	title		"Peace"
 	title2		""
 
 	type		singleplayer_only
 
-	GameData	"bin/Peace.fgd"
+	GameData	"bin/peace.fgd"
 
 	icon		"resource/icon1"
 	
@@ -74,8 +74,8 @@
 			game				|all_source_engine_paths|hl2/hl2_misc.vpk
 			game				|all_source_engine_paths|episodic/ep1_pak_dir.vpk
 			game				|all_source_engine_paths|ep2/ep2_pak_dir.vpk
-	  		game				|all_source_engine_paths|sourcetest/sourcetest_pak.vpk // sourcetest has Lost Coast content
-	  		game				|all_source_engine_paths|lostcoast/lostcoast_pak.vpk // For those using Hammer with Half-Life 2's bin
+			game				|all_source_engine_paths|sourcetest/sourcetest_pak.vpk // sourcetest has Lost Coast content
+			game				|all_source_engine_paths|lostcoast/lostcoast_pak.vpk // For those using Hammer with Half-Life 2's bin
 			platform			|all_source_engine_paths|platform/platform_misc.vpk
 
 			game+game_write		hl2
