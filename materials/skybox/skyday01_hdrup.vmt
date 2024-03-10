@@ -1,0 +1,5 @@
+"sky"
+{
+	"$basetexture" "skybox\skyday01up"
+	"$hdrbasetexture" "skybox\skyday01_hdrup"
+}

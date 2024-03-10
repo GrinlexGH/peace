@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "516"
+	"mapversion" "525"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -84,13 +84,13 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "516"
+	"mapversion" "525"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
-	"skyname" "sky_day01_01"
+	"skyname" "skyday01"
 	"vscriptlanguage_client" "-2"
 	solid
 	{
@@ -14347,7 +14347,7 @@ entity
 {
 	"id" "586"
 	"classname" "light_environment"
-	"_ambient" "255 255 255 20"
+	"_ambient" "177 207 210 20"
 	"_ambientHDR" "-1 -1 -1 1"
 	"_AmbientScaleHDR" "1"
 	"_light" "255 255 255 200"

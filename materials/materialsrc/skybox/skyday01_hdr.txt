@@ -1,3 +1,0 @@
-pfm 1
-clamps 1
-clampt 1
