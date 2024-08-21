@@ -1,6 +1,0 @@
-"sky"
-{
-	"$basetexture" "skybox\skyday01bk"
-	"$hdrbasetexture" "skybox\skyday01_hdrbk"
-	"$basetexturetransform" "center 0 0 scale 1 2 rotate 0 translate 0 0"
-}

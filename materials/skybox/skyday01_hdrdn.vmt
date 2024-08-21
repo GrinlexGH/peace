@@ -1,5 +1,0 @@
-"sky"
-{
-	"$basetexture" "skybox\skyday01dn"
-	"$hdrbasetexture" "skybox\skyday01_hdrdn"
-}

@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8866"
-	"mapversion" "526"
+	"editorbuild" "8867"
+	"mapversion" "527"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -101,13 +101,13 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "526"
+	"mapversion" "527"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
-	"skyname" "skyday01"
+	"skyname" "skyday01/skyday01"
 	"vscriptlanguage_client" "-2"
 	solid
 	{
